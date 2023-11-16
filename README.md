@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
-<h3 align="center">A passionate Full-Stack developer and a Computer Science student, dedicated on learning new things everyday, keep improving my development skills and explore new technologies. Also have interest in Machine Learning.</h3>
+<h3 align="center">A passionate Full-Stack developer and a Computer Science student, dedicated to learning new things everyday, keep improving my development skills and explore new technologies. Also have interest in Machine Learning.</h3>
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
